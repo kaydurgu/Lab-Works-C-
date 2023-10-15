@@ -1,0 +1,11 @@
+C:\Users\kaydu\source\repos\LAB2.1\bin\Debug\LAB2.1.exe.config
+C:\Users\kaydu\source\repos\LAB2.1\bin\Debug\LAB2.1.exe
+C:\Users\kaydu\source\repos\LAB2.1\bin\Debug\LAB2.1.pdb
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2.1.csproj.AssemblyReference.cache
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2._1.Properties.Resources.resources
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2.1.csproj.GenerateResource.cache
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2.1.csproj.CoreCompileInputs.cache
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2.1.exe
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2.1.pdb
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2._1.Form1.resources
+C:\Users\kaydu\source\repos\LAB2.1\obj\Debug\LAB2._1.Form2.resources
