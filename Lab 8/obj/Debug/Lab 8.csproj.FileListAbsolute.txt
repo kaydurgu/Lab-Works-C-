@@ -1,0 +1,11 @@
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\bin\Debug\Lab 8.exe.config
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\bin\Debug\Lab 8.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\bin\Debug\Lab 8.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab 8.csproj.AssemblyReference.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab_8.Form1.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab 8.csproj.GenerateResource.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab 8.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab 8.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 8\obj\Debug\Lab_8.Form2.resources

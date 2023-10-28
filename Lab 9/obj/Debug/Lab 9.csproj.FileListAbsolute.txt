@@ -1,0 +1,11 @@
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab 9.csproj.AssemblyReference.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab_9.Form1.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab_9.Form2.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab 9.csproj.GenerateResource.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab 9\obj\Debug\Lab 9.pdb
