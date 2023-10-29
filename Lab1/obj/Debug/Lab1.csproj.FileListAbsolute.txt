@@ -1,0 +1,13 @@
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\bin\Debug\Lab1.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\bin\Debug\Lab1.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.Form3.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\Lab1\obj\Debug\Lab1.Form4.resources
