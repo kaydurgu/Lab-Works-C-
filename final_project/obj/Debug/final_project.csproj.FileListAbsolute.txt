@@ -1,0 +1,12 @@
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.frmRegister.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.frmlogin.resources
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\bin\Debug\final_project.exe.config
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\bin\Debug\final_project.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\bin\Debug\final_project.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.exe
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.pdb
+C:\Users\kaydu\source\repos\kaydurgu\Lab-Works-C-\final_project\obj\Debug\final_project.Form2.resources
