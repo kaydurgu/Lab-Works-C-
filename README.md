@@ -2,11 +2,25 @@
 <code> 
 # Password Manager
  This Password Manager application is developed in C# using Windows Forms and utilizes SQL Server as its database to securely store and manage passwords.
+ 
+![Mian Page](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/main%20Page.PNG)
 
 ## Features
 - Login and Registration: Users can create accounts and securely log in to access their stored passwords.
+  
+  ![Login](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/login.PNG)
+  
+  ![EWg](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/reg.PNG)
+  
 - Password Storage: Securely store various passwords and sensitive information.
+  ![EWg](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/database_1.PNG)
 - User-friendly Interface: Windows Forms provide a user-friendly and intuitive interface for ease of use.
+  Adding new Password
+  ![EWg](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/adding.PNG)
+  Details
+   ![EWg](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/Details.PNG)
+  Changing
+   ![EWg](https://github.com/kaydurgu/Lab-Works-C-/blob/main/final_project/pics/change.PNG)
 ## Technologies Used
 - C#: Programming language used for the application's logic and functionality.
 - Windows Forms: GUI framework used for creating the user interface.
